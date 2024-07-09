@@ -3,7 +3,9 @@ API desenvolvida durante o NLW Journey de C#
 
 Diagrama das bibliotecas que compõe o projeto para a construção da API
 
-<img src="https://github.com/Sasa-G/API_De_Viagens-/assets/142459272/5c073f49-94eb-449f-9873-fc0c575d90f2" alt="">
+ <img src="https://github.com/Sasa-G/API-de-Viagem/assets/142459272/0f1ca149-5165-4016-80ed-42eef66bdeee" alt="">
+
+
 
 - API Project - É o ponto de entrada, quando tivermos o usuário utilizando o app ou site e fizer uma requisição, essa requisição será recebida pelo API Project, que recebe e devolve chamadas.
 
