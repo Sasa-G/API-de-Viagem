@@ -7,3 +7,4 @@ public class Trip
     public DateTime EndDate { get; set; }
     public IList<Activity> Activities { get; set; } = [];
 }
+

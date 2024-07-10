@@ -79,7 +79,7 @@ namespace Journey.Exception.ExceptionsBase {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a The name cannot be emppty.
+        ///   Consulta uma cadeia de caracteres localizada semelhante a The name cannot be empty..
         /// </summary>
         public static string NAME_EMPTY {
             get {

@@ -124,6 +124,6 @@
     <value>The end date of the trip must be equal to or later than the Start Date</value>
   </data>
   <data name="NAME_EMPTY" xml:space="preserve">
-    <value>The name cannot be emppty</value>
+    <value>The name cannot be empty.</value>
   </data>
 </root>

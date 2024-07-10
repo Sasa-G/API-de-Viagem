@@ -12,3 +12,4 @@ public class JourneyDbContext : DbContext
         optionsBuilder.UseSqlite("Data Source=C:\\Users\\Aluno\\Downloads");
     }
 }
+

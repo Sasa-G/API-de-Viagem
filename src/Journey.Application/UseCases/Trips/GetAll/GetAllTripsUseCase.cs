@@ -30,3 +30,4 @@ namespace Journey.Application.UseCases.Trips.GetAll
         }
         }
 
+

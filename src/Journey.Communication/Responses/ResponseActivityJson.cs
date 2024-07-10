@@ -8,3 +8,4 @@ public class ResponseActivityJson
     public DateTime Date { get; set; }
     public ActivityStatus Status { get; set; }
 }
+

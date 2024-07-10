@@ -9,3 +9,4 @@ public class Activity
     public ActivityStatus Status { get; set; }
     public Guid TripId { get; set; }
 }
+
